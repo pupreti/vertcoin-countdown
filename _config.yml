@@ -1,0 +1,9 @@
+---
+title: Vertcoin Block Reward Halving
+email: latitudemt8848@gmail.com
+description: A static website for halving countdown
+url: http://localhost
+markdown: kramdown
+exclude:
+  - bin
+  - vendor
